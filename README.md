@@ -1,2 +1,3 @@
 # SQL_Projects
-SQL_Projects
+
+Small codes of SQL Projects
